@@ -1,4 +1,4 @@
-<h1 align="center">Hello, My name is Navika Agarwal and Welcome to my Portfolio!</h1>
+<h1 align="center">Hello, My name is Navika Agarwal and Welcome to my Personal Portfolio!</h1>
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
